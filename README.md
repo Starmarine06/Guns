@@ -21,7 +21,7 @@ Install my project from Planet Minecraft
 
 ```bash
   goto the link https://www.planetminecraft.com/data-pack/guns-5320088/
-  And press download datapack.(No resource pack required)
+  And press download datapack.(Resource pack required)
 ```
 OR
 
